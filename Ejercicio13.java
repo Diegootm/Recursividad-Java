@@ -1,5 +1,5 @@
 
-public class Ejericicio13
+public class Ejercicio13
 {
     /* se desea sumar los numeros primos de una secuencia de numeros */
     public int[] secuenciaNumeros;
