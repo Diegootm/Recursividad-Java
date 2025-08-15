@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-public class Ejericicio16
+public class Ejercicio16
 {
     /* se dice que n es un numero que explota cuando este explota
        en varios fragmentos mas chicos que el dada una bomba, si 
